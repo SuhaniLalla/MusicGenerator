@@ -20,7 +20,7 @@ To use the Music Generator, follow these steps:
     git clone https://github.com/SuhaniLalla/MusicGenerator.git
     cd MusicGenerator
     ```
-2. **Open the .ipynb on colab**
+2. **Open the MusicGenerator.ipynb on colab**
 3. **Run the cells and use the application on the live link generated from any device**
 
 ## License
