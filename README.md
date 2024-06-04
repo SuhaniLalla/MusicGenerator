@@ -36,3 +36,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Hugging Face](https://huggingface.co/) for providing the MusicGen model.
 - [Gradio](https://gradio.app/) for the user-friendly interface.
+- **Professor Manjul Gupta**, RV University, for guiding us through this project as part of the GenAI course.
